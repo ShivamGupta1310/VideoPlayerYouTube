@@ -102,7 +102,6 @@ const VideoPlayerDuration = () => {
     );
   };
 
-  const {height} = Dimensions.get('window');
   return (
     <SafeAreaView style={{flex: 1}}>
       <TouchableOpacity
